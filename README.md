@@ -1,1 +1,2 @@
 # Three-Friends
+A single-player cooperative platformer where you take control of three unique characters, switching between them using Alpha 1, Alpha 2, and Alpha 3. Each character must navigate through a series of dynamic obstacles, including moving platforms, and environmental hazards. Strategic coordination is key—use teamwork to overcome challenges, activate mechanisms, and create paths for each other. Your goal is to guide all three characters safely to the exit, mastering precise movement and timing to complete each level. Can you bring them all to the finish line?
